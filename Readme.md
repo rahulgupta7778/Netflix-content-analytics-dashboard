@@ -2,6 +2,7 @@
 
 A **Streamlit-based interactive dashboard** that analyzes Netflix Movies and TV Shows using **Python, Pandas, NumPy, Matplotlib, and Seaborn**. The project demonstrates the complete data analysis workflow—from data cleaning and preprocessing to visualization and insights.
 
+## Deployed Link : https://netflix-content-analytic-dashboard.streamlit.app
 ---
 
 ## 📌 Project Overview
